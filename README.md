@@ -19,7 +19,7 @@ reading down; an ending that keeps growing after the last line.
 python3 main.py
 ```
 
-It writes the entry (244 characters) to `/output/entry.txt` and validates
+It writes the entry (276 characters) to `/output/entry.txt` and validates
 that it is 1–280 Unicode characters and not only whitespace.
 
 ---
