@@ -12,7 +12,11 @@ slows the reading down; an ending that keeps growing after the last line.
 
 Revision notes: "simply" was a filler word and the "while beyond them"
 clause sagged; cutting both tightened the rhythm and let the chair image
-and the night land as two clean beats instead of one long one.
+and the night land as two clean beats instead of one long one. A later
+independent review found the dwarfing image the relatively weakest of the
+five criteria, so one more beat was added -- "Beyond the night are the
+stars." -- letting the scale grow past the night (chair, night, stars,
+time) without touching the closing lines.
 """
 
 import os
@@ -23,6 +27,7 @@ ENTRY = (
     "No verdict, no feeling, not even calm. "
     "The words can sit, the way late light sits on an empty chair. "
     "Beyond them, the night stays large and in no hurry. "
+    "Beyond the night are the stars. "
     "There is time. There is only time."
 )
 
